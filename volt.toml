@@ -1,0 +1,8 @@
+name = "owlric"
+display-name = "Owlric"
+icon = "assets/owlric.svg"
+description = "Owlric is a dark theme for Lapce with a balanced color palette, designed to enhance readability and reduce eye strain during long coding sessions."
+version = "0.1.0"
+author = "iniridwanul"
+repository = "https://github.com/iniridwanul/Owlric"
+color-themes = ["owlric.toml"]
