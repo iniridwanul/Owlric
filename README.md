@@ -1,14 +1,5 @@
-<p align="center">
-<a href="https://github.com/iniridwanul/Owlric"><img src="https://raw.githubusercontent.com/iniridwanul/Owlric/refs/heads/master/assets/screenshot.png" alt="Owlric"/></a>
-</p>
-
-<p align="center">
-<b>Owlric</b><br/>
-Owlric is a dark theme for Lapce, designed for readability and reduced eye strain.
-</p>
-
-## 🌙 Owlric - A Dark Theme for Lapce
-<p title="Owlric">Owlric is a dark theme for Lapce, designed to enhance readability and reduce eye strain during long coding sessions. It features a balanced color palette that provides a smooth and comfortable coding experience.</p>
+## Owlric - A Dark Theme for Lapce
+Owlric is a dark theme for Lapce, designed to enhance readability and reduce eye strain during long coding sessions. It features a balanced color palette that provides a smooth and comfortable coding experience.
 
 ## Features
 - **Eye-friendly dark theme** with a well-balanced color palette.
