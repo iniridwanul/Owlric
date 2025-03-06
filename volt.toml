@@ -5,4 +5,4 @@ description = "Owlric is a dark theme for Lapce with a balanced color palette, d
 version = "0.1.0"
 author = "iniridwanul"
 repository = "https://github.com/iniridwanul/Owlric"
-color-themes = ["owlric.toml"]
+color-themes = ["owlric.toml", "ridric.toml"]
