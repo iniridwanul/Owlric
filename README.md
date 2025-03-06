@@ -10,7 +10,7 @@ Owlric is a dark theme for Lapce, designed to enhance readability and reduce eye
 - Open Lapce.
 - Navigate to Plugins → Marketplace.
 - Search for "Owlric" and install the theme.
-- Go to Open Settings → Color Theme, and select Owlric.
+- Go to Open Settings → Color Theme, and select Owlric or Ridric.
 
 ## Contributing
 Contributions, issues, and feature requests are welcome! Feel free to fork the repository and submit a pull request.
