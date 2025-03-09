@@ -1,4 +1,4 @@
-## Owlric - A Dark Theme for Lapce
+## Owlric
 Owlric is a dark theme for Lapce, designed to enhance readability and reduce eye strain during long coding sessions. It features a balanced color palette that provides a smooth and comfortable coding experience.
 
 ## Features
